@@ -5,7 +5,7 @@
 <a href="https://github.com/khaled-bahaaeldin" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-I am a recent Computer Science graduate, specializing in **Software Engineering**, from **Alamein International University**. I am passionate about leveraging technology to build innovative solutions, with a strong focus on **AI cloud solutions, computer vision, and web development**. I am currently the **Co-Founder and Head of Web Programming at Monofix**, a software house startup.
+I am a recent Computer Science graduate, specializing in **Software Engineering**, from **Alamein International University**. I am passionate about leveraging technology to build innovative solutions, with a strong focus on **AI cloud solutions, computer vision, and web development**. I am currently the **Co-Founder and Head of Web Development at Monofix**, a software house startup.
 
 ---
 
