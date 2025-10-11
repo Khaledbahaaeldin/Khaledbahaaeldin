@@ -50,5 +50,5 @@ I am a recent Computer Science graduate, specializing in **Software Engineering*
 
 ### 📫 How to Reach Me
 
-* **Email:** [khaledbahaa2012@gmail.com](mailto:khaled.b.20251@gmail.com)
+* **Email:** [khaled.b.20251@gmail.com](mailto:khaled.b.20251@gmail.com)
 * **LinkedIn:** [linkedin.com/in/Khaledbahaaeldin](https://linkedin.com/in/Khaledbahaaeldin)
