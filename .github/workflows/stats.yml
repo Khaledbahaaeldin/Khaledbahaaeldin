@@ -1,0 +1,31 @@
+name: Refresh stats cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download cards
+        run: |
+          base=https://github-profile-summary-cards.vercel.app/api/cards
+          for theme in github github_dark; do
+            for card in stats most-commit-language; do
+              out="stats/$card-$theme.svg"
+              curl -fsS -m 60 -o "$out.tmp" "$base/$card?username=${{ github.repository_owner }}&theme=$theme" || { rm -f "$out.tmp"; continue; }
+              if head -c 200 "$out.tmp" | grep -q "<svg"; then mv "$out.tmp" "$out"; else rm -f "$out.tmp"; fi
+            done
+          done
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --cached --quiet || git commit -m "chore: refresh stats cards" && git push
