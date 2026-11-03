@@ -1,54 +1,49 @@
-# Hi there, I'm Khaled Bahaaeldin Ahmed 👋
+# Hi, I'm Khaled Bahaaeldin 👋
 
-<a href="https://linkedin.com/in/Khaledbahaaeldin" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/khaled-bahaaeldin" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-I am a recent Computer Science graduate, specializing in **Software Engineering**, from **Alamein International University**. I am passionate about leveraging technology to build innovative solutions, with a strong focus on **AI cloud solutions, computer vision, and web development**. I am currently the **Co-Founder and Head of Web Development at Monofix**, a software house startup.
+Software engineer and Computer Science graduate (Alamein International University). I build AI products end to end: retrieval and agent backends, clean web and mobile interfaces, and the infrastructure that runs them. I care about privacy-first software and open source, and I'm co-founder of Monofix, a software house.
 
 ---
 
-### 🚀 What I'm Focused On
+### 📊 Stats
 
-* **Leading at Monofix:** As a co-founder, I've helped grow our team from 2 to 10 employees in just four months and orchestrated the development of over four projects. I am also spearheading our application for the Microsoft Startup Program.
-* **Academic Pursuits:** Having completed all my coursework for my Bachelor's degree, I am now planning to pursue a Master's and PhD in Computer Science or Artificial Intelligence.
-* **Hands-On Development:** I have practical experience in both academic and professional settings, from developing applications for the TIAGO mobile robot at the University of Louisville to engineering a dormitory booking application for Alamein International University during my internship with Virginia Tech.
-
----
-
-### 💻 Skills & Technologies
-
-| Category               | Skills                                                                   |
-| :--------------------- | :----------------------------------------------------------------------- |
-| **Programming Languages** | Java, C++, Python, SQL, JavaScript, R                                    |
-| **Web Development** | HTML, CSS, React, Node.js, Django, Flask, ExpressJS (EJS)                |
-| **Databases** | MySQL, MongoDB, NoSQL                                                    |
-| **AI/ML** | Machine Learning, Deep Learning, Reinforcement Learning, NLTK, TensorFlow, PyTorch |
-| **Tools & Cloud** | Docker, Docker Compose, AWS, Azure, Git, GitHub, ROS, MoveIt!, Cisco Packet Tracer |
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khaledbahaaeldin&show_icons=true&theme=transparent&hide_border=true&title_color=FF7A3D&icon_color=FF7A3D&text_color=8b949e" height="150" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaledbahaaeldin&layout=compact&theme=transparent&hide_border=true&title_color=FF7A3D&text_color=8b949e" height="150" alt="Top languages"/>
+</p>
 
 ---
 
-### 🛠️ Featured Projects
+### 🧰 Skills
 
-* **LiteraryHub - AI-Powered Arabic Literature Platform**
-    * **Impact:** Spearheaded a team of four to launch a platform that quickly gained traction, attracting over **100 users within its first month**.
-    * **Key Features:** Integrated advanced AI capabilities, including intelligent topic detection, personalized book recommendations, AI-generated cover art, and seamless e-book to audiobook conversion.
-    * **Technologies:** Python, Django, React, MongoDB, AI/ML libraries, Docker.
-
-* **Microservices-Based Translation and Summarization Platform**
-    * **Architecture:** Designed and built a robust cloud-native application utilizing a **microservices architecture**, comprising **seven independently deployable containerized services**.
-    * **User Experience:** Developed a highly responsive frontend with a modern user interface, ensuring a smooth and intuitive experience, and integrated **SuperTokens for secure authentication**.
-    * **Technologies:** Python, Flask, NLTK, Google Translate API, Docker, MongoDB Atlas.
-
-* **Snake Game - Reinforcement Learning**
-    * **AI Performance:** Engineered an AI agent using **Q-learning and Deep Q-Networks** that significantly outperformed human players, achieving a **20% higher score** on average.
-    * **Development:** Built the classic Snake game from the ground up, incorporating a human interaction mode to facilitate direct performance benchmarking against the AI.
-    * **Technologies:** Python, TensorFlow/PyTorch, Pygame.
+| | |
+|:--|:--|
+| **Languages** | Python · Kotlin · TypeScript · JavaScript · SQL · Java · C++ |
+| **Backend & AI** | FastAPI · Celery · LangChain · LangGraph · RAG · ChromaDB · OpenAI · Gemini · Ollama |
+| **Frontend & Mobile** | React · Next.js · Tailwind CSS · Jetpack Compose · Material 3 |
+| **Data** | PostgreSQL · Redis · Room · Prisma |
+| **Infra** | Docker · Caddy · GitHub Actions · Linux servers · CI/CD |
 
 ---
 
-### 📫 How to Reach Me
+### 🚀 Showcase
 
-* **Email:** [khaled.b.20251@gmail.com](mailto:khaled.b.20251@gmail.com)
-* **LinkedIn:** [linkedin.com/in/Khaledbahaaeldin](https://linkedin.com/in/Khaledbahaaeldin)
+**[Emberbyte](https://github.com/Khaledbahaaeldin/Emberbyte)** · Open source (GPL-3.0)
+A free Android data-usage monitor with no internet permission, no accounts and no telemetry. It forecasts when your quota will run out, has home-screen widgets and per-app budgets, and makes encrypted backups with Argon2id and AES-256-GCM. [Website](https://emberbyte-site.vercel.app) · [Download](https://github.com/Khaledbahaaeldin/Emberbyte/releases/latest)
+`Kotlin` `Jetpack Compose` `Material 3` `Room` `Glance` `GitHub Actions`
+
+**Mindex** · Private product, co-built with a teammate
+An AI document-chat platform: upload PDF, Office and text files, then ask questions with page-level citations, a side-by-side viewer and voice. I work on the RAG pipeline, LangGraph agents, async workers, the web app and the production deployment.
+`Next.js` `React` `TypeScript` `FastAPI` `LangGraph` `ChromaDB` `Celery` `PostgreSQL` `Redis` `Docker`
+
+**LiteraryHub** · Graduation project
+An AI-powered Arabic literature platform, built with a team of four and used by over 100 people in its first month. It does topic detection, personalized book recommendations, AI-generated cover art and e-book to audiobook conversion.
+`Python` `Django` `React` `MongoDB` `Docker`
+
+---
+
+### 📫 Get in touch
+
+- ✉️ [khaled.b.20251@gmail.com](mailto:khaled.b.20251@gmail.com)
+- 💼 [linkedin.com/in/Khaledbahaaeldin](https://linkedin.com/in/Khaledbahaaeldin)
+- 🌐 [emberbyte-site.vercel.app](https://emberbyte-site.vercel.app)
+- 🐙 [github.com/Khaledbahaaeldin](https://github.com/Khaledbahaaeldin)
