@@ -1,6 +1,8 @@
 # Hi, I'm Khaled Bahaaeldin 👋
 
-Software engineer and Computer Science graduate (Alamein International University). I build AI products end to end: retrieval and agent backends, clean web and mobile interfaces, and the infrastructure that runs them. I care about privacy-first software and open source, and I'm co-founder of Monofix, a software house.
+Software engineer and Computer Science graduate (Alamein International University). I build AI products end to end: retrieval and agent backends, clean web and mobile interfaces, and the infrastructure that runs them. I care about privacy-first software and open source.
+
+**[Portfolio → khaled-bahaaeldin.vercel.app](https://khaled-bahaaeldin.vercel.app)**
 
 ---
 
@@ -38,7 +40,7 @@ A free Android data-usage monitor with no internet permission, no accounts and n
 [Website](https://emberbyte-site.vercel.app) · [Download](https://github.com/Khaledbahaaeldin/Emberbyte/releases/latest)<br>
 `Kotlin` `Jetpack Compose` `Material 3` `Room` `Glance` `GitHub Actions`
 
-**Mindex** · Private product, co-built with a teammate<br>
+**[Mindex](https://www.mindexio.com)** · Private product, I'm the lead software engineer<br>
 An AI document-chat platform: upload PDF, Office and text files, then ask questions with page-level citations, a side-by-side viewer and voice. I work on the RAG pipeline, LangGraph agents, async workers, the web app and the production deployment.<br>
 `Next.js` `React` `TypeScript` `FastAPI` `LangGraph` `ChromaDB` `Celery` `PostgreSQL` `Redis` `Docker`
 
@@ -52,5 +54,6 @@ An AI-powered Arabic literature platform, built with a team of four and used by 
 
 - ✉️ [khaled.b.20251@gmail.com](mailto:khaled.b.20251@gmail.com)
 - 💼 [linkedin.com/in/Khaledbahaaeldin](https://linkedin.com/in/Khaledbahaaeldin)
-- 🌐 [emberbyte-site.vercel.app](https://emberbyte-site.vercel.app)
+- 🌐 [Portfolio: khaled-bahaaeldin.vercel.app](https://khaled-bahaaeldin.vercel.app)
+- 📱 [Emberbyte: emberbyte-site.vercel.app](https://emberbyte-site.vercel.app)
 - 🐙 [github.com/Khaledbahaaeldin](https://github.com/Khaledbahaaeldin)
